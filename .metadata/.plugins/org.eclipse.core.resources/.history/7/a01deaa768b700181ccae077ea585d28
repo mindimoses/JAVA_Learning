@@ -2,7 +2,7 @@ package Moses;
 
 public class Lesson1 {
 
-	// Moses
+	// Super Hero
 		   public static void main(String args[])
 		   {
 		      int a=1;
